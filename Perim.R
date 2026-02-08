@@ -1,5 +1,5 @@
 PerimetroCuadrado <- function(L) {
-  return(4 * L)
+  return(2*(2 * L))
 }
 
 LongitudCircunferencia <- function(R) {
