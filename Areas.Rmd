@@ -37,3 +37,11 @@ altura <- 2
 area_rectangulo <- base * altura
 area_rectangulo
 ```
+
+
+# Área trapecio
+b <- 4
+B <- 8
+H <- 3
+area_trapecio <- ( (b + B) * H ) / 2
+area_trapecio
